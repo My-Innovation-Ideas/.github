@@ -1,4 +1,23 @@
+- These works are while trying to create Teleportation machine and Wireless Electricity
+
+
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378167-6555593c-593f-4ca7-97c5-78e13d45e09a.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378177-9a3ba80c-4d63-4245-a501-de9a16e701f5.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378185-44f507c1-3088-455d-b868-29b63c16fa3b.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378191-cc883c41-fe10-4fb1-b70d-1564dfab5152.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378194-ea7e7f30-94c8-4434-98a5-8ff0d9b288c2.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378200-123e2b97-4ea1-405c-9418-bb34ebaf62e8.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378207-cc3aa55c-4865-46eb-9c24-6e72b58a9759.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378211-97cc0413-7f2d-47f4-a177-df4343655db4.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378340-0b506cf9-4bdc-4ecf-aafc-5817dc68461c.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378230-741ebce5-dafd-43fd-80d6-364493ce0f2d.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378234-ad0c2113-e41e-4911-bd35-0b3ba79b0e3d.jpg">
+<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378245-ed09fb4b-7288-4d99-af20-55cc2123f7f0.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197375814-6c0b5b6e-3301-4531-8c3d-99e3177b4b78.jpg">
+
+
+-These works are done while trying to create Ideal Power Generator
+
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197375832-a35996d6-a8e8-4436-bc59-40c447e00e6a.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378036-b7036029-865d-4693-8304-1a2015a8a99c.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378042-9d8ff0cf-416b-4d91-b9a1-b5dc914bec96.jpg">
@@ -20,18 +39,6 @@
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378141-e1f22690-8972-44eb-bcd0-9c4bda5cc69d.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378150-d40508e9-d375-4eef-b41f-b52c1bbb655d.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378161-2ed778ca-6f40-4e43-8951-27bcf6cdff9c.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378167-6555593c-593f-4ca7-97c5-78e13d45e09a.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378177-9a3ba80c-4d63-4245-a501-de9a16e701f5.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378185-44f507c1-3088-455d-b868-29b63c16fa3b.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378191-cc883c41-fe10-4fb1-b70d-1564dfab5152.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378194-ea7e7f30-94c8-4434-98a5-8ff0d9b288c2.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378200-123e2b97-4ea1-405c-9418-bb34ebaf62e8.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378207-cc3aa55c-4865-46eb-9c24-6e72b58a9759.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378211-97cc0413-7f2d-47f4-a177-df4343655db4.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378340-0b506cf9-4bdc-4ecf-aafc-5817dc68461c.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378230-741ebce5-dafd-43fd-80d6-364493ce0f2d.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378234-ad0c2113-e41e-4911-bd35-0b3ba79b0e3d.jpg">
-<img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378245-ed09fb4b-7288-4d99-af20-55cc2123f7f0.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378251-4bcfdcb3-ceaf-4b8e-84d9-5831f1fa8eeb.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378275-0bea287d-87ab-4ed0-b6ab-e8211c654fbd.jpg">
 <img align="right" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/104285358/197378282-9a7be808-e974-409e-a198-b02d0d672e47.jpg">
