@@ -1,4 +1,4 @@
-<h3 align="center">These designs/drawing are done while trying to create Teleportation machine and Wireless Electricity</h3>
+<h3 align="center">These designs/drawing are done while trying to create Teleportation machine and Wireless Electricity</h3></br>
 
 <img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378167-6555593c-593f-4ca7-97c5-78e13d45e09a.jpg">
 <img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378177-9a3ba80c-4d63-4245-a501-de9a16e701f5.jpg">
@@ -13,13 +13,13 @@
 <img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378234-ad0c2113-e41e-4911-bd35-0b3ba79b0e3d.jpg">
 <img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378245-ed09fb4b-7288-4d99-af20-55cc2123f7f0.jpg">
 <img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197375814-6c0b5b6e-3301-4531-8c3d-99e3177b4b78.jpg">
-<img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378042-9d8ff0cf-416b-4d91-b9a1-b5dc914bec96.jpg">
+<img align="right" alt="Coding" width="480" height="250" src="https://user-images.githubusercontent.com/104285358/197378042-9d8ff0cf-416b-4d91-b9a1-b5dc914bec96.jpg"></br>
+</br>
+</br>
 
-
-
-<h3 align="center">These designs/drawing are done while trying to create Ideal Power Generator</h3>
-
-
+<h3 align="center">These designs/drawing are done while trying to create Ideal Power Generator</h3></br>
+</br>
+</br>
 
 
 
